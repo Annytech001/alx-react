@@ -6,7 +6,6 @@
   "scripts": {
     "build": "webpack"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -18,4 +17,3 @@
     "jquery": "^3.7.1"
   }
 }
-
